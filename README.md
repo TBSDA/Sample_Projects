@@ -1,4 +1,4 @@
-# Sample_Projects
+# Sample Projects
 
 Here some sample projects can be found.
 
