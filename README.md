@@ -51,7 +51,7 @@ Here some sample projects can be found.
 
 # 3 TA Signals
   Project shows the components and final script which can be used for finding technical analysis for tickers/companies within supported indexes.
-  The script can be improve by adding new indexes and new signals.
+  The script can be improved by adding new indexes and new signals.
   The main notebook is TA_Signal_Finder. Rest of them are the components which are included in main notebook.
   
     Used libraries:
